@@ -1,0 +1,26 @@
+{
+  "name": "reachinbox",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@google-cloud/local-auth": "^3.0.1",
+    "bullmq": "^5.7.8",
+    "cookie-session": "^2.1.0",
+    "ejs": "^3.1.10",
+    "express": "^4.19.2",
+    "googleapis": "^137.1.0",
+    "mongoose": "^8.3.4",
+    "nodemon": "^3.1.0",
+    "openai": "^4.0.0",
+    "passport": "^0.5.3",
+    "passport-google-oauth20": "^2.0.0"
+  },
+  "description": ""
+}
